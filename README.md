@@ -89,14 +89,22 @@ List of features ready and TODOs for future development:
 * Searches for a given **PUBLIC or UNLISTED** playlist in Youtube and then converts the video title (+ song name and artist if found) to a string so that Spotify can search for the song and add it to a given Spotify playlist.
  
 To-do list:
+
 [X] Make so that it changes the pages, max 50 results per page in Youtube and max 100
 in Spotify.
-[X] Gets metadata(name and artist) from Youtube([ytdl-core](https://github.com/fent/node-ytdl-core)). 
+
+[X] Gets metadata(name and artist) from Youtube([ytdl-core](https://github.com/fent/node-ytdl-core)).
+
 [] Make a new main.js for user choices.
+
 [X] Check for duplicates in spotify list(there are none official "remove duplicates" from spotify WEB API).
+
 [] Getting Youtube OAuth for private videos.
+
 [] Put in a login for youtube-DL for private videos.
+
 [] Merge the 2 search engines so that it uses 1/2 the time.
+
 [X] Add color to the terminal ([chalk](https://github.com/chalk/chalk))
  
 ## Issues
