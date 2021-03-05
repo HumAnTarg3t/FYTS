@@ -8,6 +8,10 @@
   },
   "author": "HumAnTarg3t",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/HumAnTarg3t/FYTS.git"
+  },
   "dependencies": {
     "chalk": "^4.1.0",
     "dotenv": "^8.2.0",
