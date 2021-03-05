@@ -1,0 +1,11 @@
+.env
+node_modules
+checkDupSpot copy.js
+ytajawwwx.js
+token1.txt
+token2.txt
+spotifyDupes.json
+updateSpotifyList.js
+dupeCorrection.js
+deleteFromSpoitfy.js
+pageTokens.json

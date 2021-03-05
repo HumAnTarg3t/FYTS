@@ -1,0 +1,19 @@
+{
+  "name": "from-yt-to-spot",
+  "version": "1.0.0",
+  "description": "Iterates over a YouTube playlist, gets the video title and sends it to spotify.",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "HumAnTarg3t",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^4.1.0",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "node-fetch": "^2.6.1",
+    "open": "^7.4.2",
+    "ytdl-core": "^4.5.0"
+  }
+}
