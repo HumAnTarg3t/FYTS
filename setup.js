@@ -64,7 +64,7 @@ async function getSpotifyToken() {
     console.log(error);
   }
 }
-
-app.listen(8888, () => {
+const port = process.env.PORT || 8888
+app.listen(port, () => {
   console.log("listening on 'http://localhost:8888'");
 });
