@@ -1,7 +1,7 @@
 {
   "name": "from-yt-to-spot",
   "version": "1.0.0",
-  "description": "Iterates over a YouTube playlist, gets the video title and sends it to spotify.",
+  "description": "Iterates over a YouTube playlist, gets the video title (and meta data) and sends it to spotify.",
   "main": "app.js",
   "scripts": {
     "start": "node app.js"
