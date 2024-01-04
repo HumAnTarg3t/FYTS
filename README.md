@@ -1,3 +1,6 @@
+# MAYBE BE BROKE
+Could be broken because of the version that are needed for it to run... not maintained
+
 # From-youtube-to-spotify
  Takes your saved video from a public playlist in Youtube and adds it to Spotify.
  
